@@ -1,0 +1,9 @@
+Arduino|12000|image/arduino_1.png
+Arduino Mini Micro|10000|image/Arduino_Mini_Micro.png
+Batter Limet|3000|image/Batter_Limet.png
+IR Sensor|1250|image/IR_Sensor.png
+motor Device|3500|image/motor_Device.png
+motor drive shield|6000|image/Servo-Motor-3.png
+Servo Motor|2500|image/Arduino_Mini_Micro.png
+Touch switch button|750|image/Touch_switch_button.png
+Ultrasonic|2500|image/Ultrasonic_1.png
